@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihal8gupta" alt="nihal8gupta" /></a> </p>
 
-- 🔭 I’m currently working on **Food Delivering**
+- 🔭 I’m currently working on **Food Delivering Application**
 
 - 🌱 I’m currently learning **Django,Postgres**
 
