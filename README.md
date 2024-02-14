@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Netflix Clone](https://github.com/Nihal8Gupta/Netflix-Clone)
 
-- 💬 Ask me about **Python , SQL,Djano**
+- 💬 Ask me about **Python , SQL,Django**
 
 - 📫 How to reach me **nihalgt220@gmail.com**
 
